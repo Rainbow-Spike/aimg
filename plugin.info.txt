@@ -1,0 +1,7 @@
+base   aimg
+author Itay Donenhirsch
+email  itay@bazoo.org
+date   2009-05-07
+name   AIMG Plugin
+desc   Flickr-like Annotated Image Plugin
+url    http://www.dokuwiki.org/plugin:aimg
